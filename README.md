@@ -20,7 +20,7 @@ It helps simplify common server orchestration scenarios like:
 ## Installation
 
 ```bash
-go get github.com/yourusername/run
+go get github.com/not-for-prod/run
 ```
 
 ---
@@ -37,7 +37,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/yourusername/run"
+	"github.com/not-for-prod/run"
 )
 
 func main() {
